@@ -31,5 +31,5 @@ ul li a{
 }
 
 .info {
-    
+    display: flex;
 }
