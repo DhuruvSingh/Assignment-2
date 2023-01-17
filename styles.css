@@ -1,0 +1,35 @@
+main{
+    width: 1440px;
+    height: 1461px;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+nav{
+    display: flex;
+    border: 2px solid black;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 48px;
+
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+ul li{
+    margin-right: 72px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.info {
+    
+}
